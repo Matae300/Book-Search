@@ -1,0 +1,26 @@
+[
+  {
+    "bookId": "1",
+    "authors": ["Author 1", "Author 2"],
+    "description": "Sample description for Book 1.",
+    "title": "Book Title 1",
+    "image": "https://example.com/image1.jpg",
+    "link": "https://example.com/book1"
+  },
+  {
+    "bookId": "2",
+    "authors": ["Author 3"],
+    "description": "Sample description for Book 2.",
+    "title": "Book Title 2",
+    "image": "https://example.com/image2.jpg",
+    "link": "https://example.com/book2"
+  },
+  {
+    "bookId": "3",
+    "authors": ["Author 4"],
+    "description": "Sample description for Book 3.",
+    "title": "Book Title 3",
+    "image": "https://example.com/image3.jpg",
+    "link": "https://example.com/book3"
+  }
+]
