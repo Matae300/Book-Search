@@ -35,6 +35,7 @@ Use the navigation menu to search for books, log in or sign up, view saved books
 
 Matheus Almeida
 
-License
+## License
+
 This project is licensed under the MIT License.
 
